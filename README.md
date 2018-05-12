@@ -1,6 +1,14 @@
 Commerce Multistore
 ===================
 
+<strong><mark>DEPRECATED!</mark></strong>
+
+Further development continue here:
+
+- https://github.com/drugan/commerce_marketplace
+- https://www.drupal.org/project/commerce_marketplace
+
+
 Implements Drupal Commerce 2.x multiple stores/store owners model.
 
 > Note: this module is also a part of the
